@@ -2,24 +2,6 @@
 
 ![Faker.js](http://imgur.com/KiinQ.png)
 
-[![Build Status](https://travis-ci.org/Marak/faker.js.svg?branch=master)](https://travis-ci.org/Marak/faker.js)
-
-[![npm version](https://badge.fury.io/js/faker.svg)](http://badge.fury.io/js/faker)
-
-## Demo
-
-[http://marak.com/faker.js/](http://marak.com/faker.js/)
-
-## Hosted API Microservice
-
-[http://faker.hook.io](http://faker.hook.io/)
- - Supports all Faker API Methods
- - Full-Featured Microservice
- - Hosted by [hook.io](http://hook.io)
-
-```bash
-curl http://faker.hook.io?property=name.findName&locale=de
-```
 
 ## Usage
 
@@ -289,9 +271,9 @@ See: https://github.com/lestoni/faker-cli
 
 faker.js is a popular project used by many organizations and individuals in production settings. Major and Minor version releases are generally on a monthly schedule. Bugs fixes are addressed by severity and fixed as soon as possible.
 
-If you require the absolute latest version of `faker.js` the `master` branch @ http://github.com/marak/faker.js/ should always be up to date and working.
+If you require the absolute latest version of `faker.js` the `master` branch @ http://github.com/mrevjd/faker.js/ should always be up to date and working.
 
-## Authors
+## Original Authors
 
 #### Matthew Bergman & Marak Squires
 
